@@ -1,0 +1,20 @@
+html
+{
+  background-color: #343233;
+  color: #efdab9;
+  font-weight: 200;
+  font-family: 'Mulish', sans-serif;
+  width: 100%;
+}
+
+body
+{
+  margin: auto;
+  min-width: 500px;
+  max-width: 1000px;
+}
+
+.site-container
+{
+  text-align: center;
+}
